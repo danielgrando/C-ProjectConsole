@@ -1,0 +1,16 @@
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.exe
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.deps.json
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.runtimeconfig.json
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.runtimeconfig.dev.json
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.dll
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\ref\RevisaoPrimeirosPassos.dll
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\bin\Debug\net5.0\RevisaoPrimeirosPassos.pdb
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.csprojAssemblyReference.cache
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.AssemblyInfoInputs.cache
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.AssemblyInfo.cs
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.csproj.CoreCompileInputs.cache
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.dll
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\ref\RevisaoPrimeirosPassos.dll
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.pdb
+C:\Users\devwi\Documents\C#\RevisaoPrimeirosPassos\RevisaoPrimeirosPassos\obj\Debug\net5.0\RevisaoPrimeirosPassos.genruntimeconfig.cache
